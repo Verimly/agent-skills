@@ -1,0 +1,12 @@
+{
+  "name": "verimly",
+  "description": "Verimly skills and MCP server for AI agents",
+  "owner": { "name": "Verimly", "url": "https://verimly.com" },
+  "plugins": [
+    {
+      "name": "verimly",
+      "source": "./",
+      "description": "Verimly MCP server (read-only first) and the verimly, verimly-setup, verimly-menu, verimly-reports and verimly-team skills."
+    }
+  ]
+}

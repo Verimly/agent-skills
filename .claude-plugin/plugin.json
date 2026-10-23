@@ -1,0 +1,11 @@
+{
+  "name": "verimly",
+  "displayName": "Verimly",
+  "version": "0.1.0",
+  "description": "Run your restaurant or café from your AI agent: Verimly MCP server plus skills for setup, menu, reports and team.",
+  "author": { "name": "Verimly", "url": "https://verimly.com" },
+  "homepage": "https://github.com/Verimly/agent-skills",
+  "repository": "https://github.com/Verimly/agent-skills",
+  "license": "MIT",
+  "keywords": ["verimly", "pos", "restaurant", "hospitality", "mcp", "skills"]
+}

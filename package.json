@@ -1,0 +1,12 @@
+{
+  "name": "@verimly/agent-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Agent skill pack for Verimly: SKILL.md files, GET-STARTED.md entry guide and Claude Code plugin, mirrored to the public GitHub repository.",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/build.mjs --check",
+    "typecheck": "node scripts/build.mjs --check"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "verimly": {
+      "type": "http",
+      "url": "https://mcp.verimly.com/mcp"
+    }
+  }
+}
